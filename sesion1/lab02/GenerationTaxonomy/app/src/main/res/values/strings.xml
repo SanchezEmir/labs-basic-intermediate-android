@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GenerationTaxonomy</string>
+    <string name="verificar">Verificar</string>
+    <string name="ingresa_tu_a_o_de_nacimiento">Ingresa tu año de nacimiento</string>
+</resources>

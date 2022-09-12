@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MinMaxAge</string>
+    <string name="resultado">[Resultado]</string>
+    <string name="procesar">Procesar</string>
+    <string name="ingresa_tu_edad">Ingresa tu edad</string>
+    <string name="eres_mayor_de_edad">¿Eres mayor de edad?</string>
+</resources>
